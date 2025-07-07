@@ -25,4 +25,30 @@
 		           "Bowral","Mittagong","Dubbo","Nowra","Bathurst","Nelson Bay","Lismore","Taree","Goulburn","Armidale","Echuca"],
         "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
 	},
+	  {
+		"name": "Victoria",
+		"leaderName": "Joan Kirner",
+		"adjective": ["Victorian"],
+		"startBias": ["Coast","Grassland"],
+		"preferredVictoryType": "Cultural",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "The principles for which we have fought will survive longer than any nation you could ever build.",
+		"introduction": "Welcome to Victoria, I am their Premier Joan Kirner.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "Yes..?",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [0,0,128],
+		"innerColor": [192,192,192],
+		"favoredReligion": "Christianity",
+		"uniqueName": "The Garden State",
+		"uniques": ["[+25]% [Culture] from every [unimproved]"],
+		"cities": ["Melbourne","Geelong","Ballarat","Bendigo","Shepparton","Warragul","Traralgon","Warrnambool","Bacchus Marsh",
+		           "Gisborne","Echuca","Wangaratta","Horsham","Bairnsdale","Sale","Colac","Castlemaine","Portland","Swan Hill"],
+        "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
+	},
 ]
