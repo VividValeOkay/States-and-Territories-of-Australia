@@ -1,0 +1,27 @@
+[
+  {
+		"name": "New South Wales",
+		"leaderName": "Bob Carr",
+		"adjective": ["New South Welshmen","Sydneysider"],
+		"startBias": ["Coast","Grassland"],
+		"preferredVictoryType": "Cultural",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "The principles for which we have fought will survive longer than any nation you could ever build.",
+		"introduction": "Welcome to New South Wales, I am their Premier Bob Carr.",
+
+		"neutralHello": "Hello!",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "My friend, does this seem reasonable to you?",
+
+		"outerColor": [135,206,235],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Christianity",
+		"uniqueName": "The Premier State",
+		"uniques": ["[+25]% [Culture] [in all cities] <during a Golden Age>"],
+		"cities": ["Sydney"],
+        "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
+	},
+]
