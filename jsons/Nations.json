@@ -21,7 +21,8 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Premier State",
 		"uniques": ["[+25]% [Culture] [in all cities] <during a Golden Age>"],
-		"cities": ["Sydney"],
+		"cities": ["Sydney","Newcastle","Tweed Heads","Central Coast","Wollongong","Coffs Harbour","Wagga Wagga","Buronga","Ballina","Tamworth","Orange",
+		           "Bowral","Mittagong","Dubbo","Nowra","Bathurst","Nelson Bay","Lismore","Taree","Goulburn","Armidale","Echuca"],
         "spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
 	},
 ]
